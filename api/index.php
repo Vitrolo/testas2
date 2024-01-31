@@ -54,7 +54,7 @@
 </head>
 <body>
 
-    <form action="#" method="post">
+    <form action="#" method="get">
         <label for="nome">Nome:</label>
         <input type="text" id="nome" name="nome" required>
 
